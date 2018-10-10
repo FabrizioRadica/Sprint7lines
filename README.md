@@ -1,4 +1,4 @@
-# Sprint7lines
+# Sprint7lines v1.1
 a Simple seven lines code game, made on Locomotive Basic for Amstrad CPC 
 
 2018 By Fabrizio Radica - fabrizio@radicadesign.com
